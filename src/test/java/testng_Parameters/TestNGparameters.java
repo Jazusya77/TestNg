@@ -11,6 +11,9 @@ public class TestNGparameters {
         System.out.println("TestNG_Parameters -> Setup");
         System.out.println("1. Parameter value from xml file: " + browser);
         System.out.println("2. Parameter value from xml file: " + platform);
+        
+        
+        System.out.println("ljsd ijhg dhfjk");
     }
 
     @Test
